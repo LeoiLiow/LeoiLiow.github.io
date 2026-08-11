@@ -8,22 +8,22 @@ last_updated = "August 10, 2026"
 name = "Lei Liao"
 title = "PhD Student"
 institution = "McGill University"
-avatar = "/bio.jpg"
+avatar = "/Selfie.jpg"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
-location = "City, Country"
+email = "lei.liao@mail.mcgill.ca"
+location = "Montreal,Quebec, Canada"
 location_url = "https://maps.google.com"
 location_details = [
   "Room 123, Science Building,",
   "University Avenue, City, Country"
 ]
-google_scholar = "https://scholar.google.com"
+google_scholar = "https://scholar.google.com/citations?user=7JyFbrYAAAAJ&hl=en"
 orcid = "https://orcid.org"
-github = "https://github.com"
-linkedin = "https://linkedin.com"
+github = "https://github.com/RayLeoi"
+linkedin = "https://www.linkedin.com/in/lei-liao-4825a72b6/"
 
 [features]
 # Show a like button on the about page
