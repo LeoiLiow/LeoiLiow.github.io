@@ -3,9 +3,10 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Earthquake Engineering",
+  "Surrogate model",
+  "Seismic Hazard",
+  "risk assessment",
 ]
 
 [[sections]]
