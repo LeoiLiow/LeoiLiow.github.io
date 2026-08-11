@@ -15,13 +15,13 @@ avatar = "/Selfie.jpg"
 
 email = "lei.liao@mail.mcgill.ca"
 location = "Montreal,Quebec, Canada"
-location_url = "https://maps.google.com"
+location_url = "https://sites.google.com/view/hmirlab/home"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "MD165, macdonald Engineering Building,",
+  "845 Rue Sherbrooke O, Montreal"
 ]
 google_scholar = "https://scholar.google.com/citations?user=7JyFbrYAAAAJ&hl=en"
-orcid = "https://orcid.org"
+orcid = "https://orcid.org/my-orcid?orcid=0009-0005-9031-6870"
 github = "https://github.com/RayLeoi"
 linkedin = "https://www.linkedin.com/in/lei-liao-4825a72b6/"
 
