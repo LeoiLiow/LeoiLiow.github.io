@@ -7,7 +7,7 @@
 **Hunan University**, MSc in civil engineering, *2020 - 2023*
 - Dissertation: Research on parametric and non-parametric methods for structural seismic fragility analysis
 - Supervisor: Prof. Jun Xu
-- Co-Advisor: Suiwen Wu
+- Co-Advisor: Prof. Suiwen Wu
   
 **Chang'an University**, B.S. in Civil Engineering, *2016 - 2020*
 - Graduated with Outstanding Graduate Honors
