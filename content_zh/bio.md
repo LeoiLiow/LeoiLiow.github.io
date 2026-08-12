@@ -1,5 +1,5 @@
-我目前是某某大学理学院博士生，导师是 [导师甲教授](https://example.com) 和 [导师乙博士](https://example.com)。
+我目前是麦吉尔大学土木工程系在读博士生，导师为 [Yazhou (Tim) Xie 教授](https://sites.google.com/view/hmirlab)，共同导师为[Matiyas A. Bezabeh 教授](https://mcgilltsg.github.io/)。
 
-此前，我在某某大学获得自然科学学士学位（一等荣誉）。
+我于湖南大学获得土木工程硕士学位，期间师从[徐军 教授](https://grzy.hnu.edu.cn/site/index/xujun3)。
 
-我的研究主要关注自然哲学中的数学原理。
+我的研究聚焦于人工智能与地震工程的交叉领域，主要关注数据驱动建模、地震工程与基础设施风险韧性评估。
