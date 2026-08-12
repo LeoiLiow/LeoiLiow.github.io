@@ -1,26 +1,39 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**McGill University**, PhD student, *2024 - Present*
+- Research focus: AI-driven Seismic Performance and Resilience Assessment
+- Supervisor: Prof. Yazhou (Tim) Xie and Prof. Matiyas A. Bezabeh
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
-
+**Hunan University**, MSc in civil engineering, *2020 - 2023*
+- Dissertation: Research on parametric and non-parametric methods for structural seismic fragility analysis
+- Supervisor: Prof. Jun Xu
+- Co-Advisor: Suiwen Wu
+  
+**Chang'an University**, B.S. in Civil Engineering, *2016 - 2020*
+- Graduated with Outstanding Graduate Honors
 ## Experience
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+**Graduate Teaching Assistant**  
+McGill University  
+*2024 - 2026*
+
+- CIVE 317 Structural Engineering, Fall 2024
+- CIVE 460 Matrix Structural Analysis, Winter 2025
+- CIVE 317 Structural Engineering, Fall 2025
+- CIVE 317 Structural Engineering, Fall 2026
+- Assisted with course instruction, student support, and other teaching-related activities.
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+- **Programming & Simulation:** Python, MATLAB, OpenSees
+- **Scientific Computing & AI:** Deep Learning, Reinforcement Learning
+- **Technical Writing:** LaTeX, Microsoft Office
+- **Languages:** Mandarin (Native), English
 
 ## Awards & Honors
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- **McGill Engineering Doctoral Award (MEDA)** (*2024*)
+- **Ciro Robert Martoni Fellowship in Sustainable Engineering** (*2024*)
+- **Outstanding Postgraduate Student, Hunan University** (*2022*)
+- **Outstanding Graduate, Chang'an University** (*2020*)
+- **National Scholarship** (*2017*)
