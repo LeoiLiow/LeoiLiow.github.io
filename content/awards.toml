@@ -1,27 +1,35 @@
 type = "card"
 title = "Awards"
-description = "Honors and awards I have received."
+description = "Selected honors, scholarships, and awards."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "McGill Engineering Doctoral Award (MEDA)"
+subtitle = "McGill University"
 date = "2024"
-content = "Description of the award."
+content = ""
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
+title = "Ciro Robert Martoni Fellowship in Sustainable Engineering"
+subtitle = "McGill University"
+date = "2024"
+content = ""
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Outstanding Postgraduate Student"
+subtitle = "Hunan University"
 date = "2022"
-content = "Description of the award."
+content = ""
+
+
+[[items]]
+title = "Outstanding Graduate"
+subtitle = "Chang'an University"
+date = "2020"
+content = ""
+
+
+[[items]]
+title = "National Scholarship"
+subtitle = "Ministry of Education of China"
+date = "2017"
+content = ""
