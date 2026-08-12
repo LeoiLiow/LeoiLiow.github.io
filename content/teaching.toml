@@ -1,10 +1,24 @@
 type = "card"
 title = "Teaching"
-description = "Courses I have taught or assisted with."
+description = "Courses I have assisted with as a teaching assistant."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+title = "CIVE 317 Structural Engineering"
+subtitle = "Graduate Teaching Assistant"
+date = "Fall 2024"
+content = "Instructor: Prof. Yazhou (Tim) Xie."
+tags = ["Undergraduate", "Structural Engineering"]
+
+[[items]]
+title = "CIVE 460 Matrix Structural Analysis"
+subtitle = "Graduate Teaching Assistant"
+date = "Winter 2025"
+content = "Instructor: Prof. Yazhou (Tim) Xie."
+tags = ["Undergraduate", "Structural Analysis"]
+
+[[items]]
+title = "CIVE 317 Structural Engineering"
+subtitle = "Graduate Teaching Assistant"
+date = "Fall 2025"
+content = "Instructor: Prof. Yazhou (Tim) Xie."
+tags = ["Undergraduate", "Structural Engineering"]
