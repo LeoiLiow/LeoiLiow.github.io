@@ -1,9 +1,13 @@
 type = "card"
 title = "Services"
-description = "Professional services and community involvement."
+description = "Academic peer-review service."
 
 [[items]]
-title = "Reviewer"
-subtitle = "Journal Name"
-date = "2024"
-content = "Reviewed papers for..."
+title = "Journal Reviewer"
+subtitle = "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering"
+content = ""
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = "13th National Conference on Earthquake Engineering (13NCEE)"
+content = ""
