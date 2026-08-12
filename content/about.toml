@@ -4,9 +4,9 @@ title = "About"
 [profile]
 research_interests = [
   "Earthquake Engineering",
-  "Surrogate model",
-  "Seismic Hazard",
-  "risk assessment",
+  "Surrogate Modeling",
+  "Seismic Hazard Analysis",
+  "Seismic Risk Assessment",
 ]
 
 [[sections]]
