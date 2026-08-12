@@ -1,16 +1,17 @@
 ## Education
 
-**McGill University**, PhD student, *2024 - Present*
+**McGill University**, PhD Student, *2024 - Present*
 - Research focus: AI-driven Seismic Performance and Resilience Assessment
-- Supervisor: Prof. Yazhou (Tim) Xie and Prof. Matiyas A. Bezabeh
+- Supervisor: Prof. Yazhou (Tim) Xie  
+- Co-Advisor: Prof. Matiyas A. Bezabeh
 
-**Hunan University**, MSc in civil engineering, *2020 - 2023*
+**Hunan University**, M.Sc. in civil engineering, *2020 - 2023*
 - Dissertation: Research on parametric and non-parametric methods for structural seismic fragility analysis
 - Supervisor: Prof. Jun Xu
 - Co-Advisor: Prof. Suiwen Wu
   
 **Chang'an University**, B.S. in Civil Engineering, *2016 - 2020*
-- Graduated with Outstanding Graduate Honors
+- Awarded Outstanding Graduate Honors
 ## Experience
 
 **Graduate Teaching Assistant**  
@@ -21,7 +22,7 @@ McGill University
 - CIVE 460 Matrix Structural Analysis, Winter 2025
 - CIVE 317 Structural Engineering, Fall 2025
 - CIVE 317 Structural Engineering, Fall 2026
-- Assisted with course instruction, student support, and other teaching-related activities.
+
 
 ## Skills
 
