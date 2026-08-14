@@ -50,14 +50,7 @@ function loadDynamicPageData(slug: string, locale?: string): DynamicPageLocaleDa
   return null;
 }
 
-export function generateStaticParams() {
-  const config = getConfig();
-  return config.navigation
-    .filter((nav) => nav.type === 'page' && nav.target !== 'about')
-    .map((nav) => ({
-      slug: nav.target,
-    }));
-}
+
 
 export function generateStaticParams() {
   const config = getConfig();
