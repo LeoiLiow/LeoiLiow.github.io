@@ -145,11 +145,12 @@ export default function CardPage({
                             </div>
                         )}
 
+                    
                         {/* Read more link */}
-                        {item.href && (
+                        {item.link && (
                             <div className="mt-4">
                                 <Link
-                                    href={item.href}
+                                    href={item.link}
                                     className="inline-flex items-center text-accent font-medium hover:underline transition-all duration-200"
                                 >
                                     Read more →
