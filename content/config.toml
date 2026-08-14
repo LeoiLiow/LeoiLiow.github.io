@@ -83,3 +83,10 @@ title = "CV"
 type = "page"
 target = "cv"
 href = "/cv"
+
+
+[[navigation]]
+title = "13NCEE"
+type = "page"
+target = "news-13ncee"
+href = "/news-13ncee"
