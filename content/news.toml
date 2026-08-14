@@ -3,5 +3,9 @@ date = "2026-07"
 content = "Presented our work on diffusion-based aftershock ground-motion generation at the 13th National Conference on Earthquake Engineering (13NCEE) in Portland, Oregon, USA."
 
 [[news]]
+date = "2026-07"
+content = "Presented our work on diffusion-based aftershock ground-motion generation at the 13th National Conference on Earthquake Engineering (13NCEE) in Portland, Oregon, USA. [Read more →](/news-13ncee)"
+
+[[news]]
 date = "2025-09"
 content = "My first PhD paper has been accepted for publication in *Mechanical Systems and Signal Processing* 🎉"
