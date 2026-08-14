@@ -8,5 +8,5 @@ I had the opportunity to present our work on diffusion-based aftershock ground-m
 
 ## About the Work
 
-Our work presents a diffusion-based conditional generative framework for producing mainshock-compatible aftershock ground motions in subduction zones to support more reliable seismic performance and risk assessments where recorded aftershock data are limited
+Our work presents a diffusion-based conditional generative framework for producing mainshock-compatible aftershock ground motions in subduction zones to support more reliable seismic performance and risk assessments where recorded aftershock data are limited.
 
