@@ -88,5 +88,5 @@ href = "/cv"
 [[navigation]]
 title = "News"
 type = "page"
-target = "news-13ncee"
-href = "/news-13ncee"
+target = "news-page"
+href = "/news-page"
