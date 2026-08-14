@@ -4,7 +4,7 @@
 
 I had the opportunity to present our work on diffusion-based aftershock ground-motion generation at the 13th National Conference on Earthquake Engineering (13NCEE).
 
-![Presentation at 13NCEE](/news/13ncee/presentation.jpg)
+![Presentation at 13NCEE](/news/13ncee/title.jpg)
 
 ## About the Work
 
