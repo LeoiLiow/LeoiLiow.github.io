@@ -59,6 +59,24 @@ export function generateStaticParams() {
     }));
 }
 
+export function generateStaticParams() {
+  const config = getConfig();
+
+  const navigationPages = config.navigation
+    .filter((nav) => nav.type === 'page' && nav.target !== 'about')
+    .map((nav) => ({
+      slug: nav.target,
+    }));
+
+  const newsPages = [
+    { slug: 'news-13ncee' },
+  ];
+
+  return [...navigationPages, ...newsPages];
+}
+
+
+
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
   const pageConfig = getPageConfig(slug) as BasePageConfig | null;
