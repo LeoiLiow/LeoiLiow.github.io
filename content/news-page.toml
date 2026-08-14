@@ -1,1 +1,16 @@
+type = "card"
+title = "News"
+description = "Recent updates, presentations, publications, and academic activities."
 
+[[items]]
+title = "13NCEE Presentation"
+subtitle = "13th National Conference on Earthquake Engineering"
+date = "2026-07"
+content = "Presented our work on diffusion-based aftershock ground-motion generation in Portland, Oregon, USA."
+href = "/news-13ncee"
+
+[[items]]
+title = "Paper Accepted by MSSP"
+subtitle = "Mechanical Systems and Signal Processing"
+date = "2025-09"
+content = "My first PhD paper was accepted for publication in Mechanical Systems and Signal Processing."
